@@ -5,7 +5,8 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className="flexCenter mb-24">
+    <div className=' mt-5'>
+      <footer className="flexCenter mb-24">
       <div className="padding-container max-container flex w-full flex-col gap-14">
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-row">
           <Link href="/" className="mb-10">
@@ -59,9 +60,11 @@ const Footer = () => {
         </div>
 
         <div className="border bg-gray-20" />
+        <p className="regular-14 w-full text-center text-gray-30"> World Changing Vr look by Arivani Technologies pvt ltd @2024</p>
         <p className="regular-14 w-full text-center text-gray-30">iArivani | All rights reserved</p>
       </div>
     </footer>
+    </div>
 
   )
 }

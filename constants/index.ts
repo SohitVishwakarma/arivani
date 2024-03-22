@@ -55,14 +55,14 @@ export const FOOTER_LINKS = [
       'About iArivani',
       'Press Releases',
       'Environment',
-      'Jobs',
+      'Career',
       'Privacy Policy',
       'Contact Us',
     ],
   },
   {
     title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking iArivani', 'iArivani kinthill'],
+    links: ['E-Com iAriv', 'Real State iAriv', 'iArivani kinthill'],
   },
 ];
 
